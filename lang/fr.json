@@ -48,24 +48,24 @@
         "notes": "Notes",
         "new": "Nouveau",
         "delete": "Suppression",
-        "newRelationship": "Nouveau Lien",
+        "newRelationship": "Enfant/PNJ",
         "newItem" : "Nouvel Objet",
         "reset": "Effacer",
         "addexp": "Click pour ajouter de l'Experience, Click droit pour le dépenser!",
-        "currentPool": "Current Pool",
-        "roll": "Lancé!",
+        "currentPool": "Nombre de Dé(s)",
+        "roll": "Lancer!",
         "cancel": "Annuler",
         "useItem": "Utiliser l'Objet",
         "none": "Aucun",
-        "bonusDice": "Dé Supplémentaire",
+        "bonusDice": "Dé(s) Supplémentaire(s)",
         "brokeFail": "Tu échoues Automatiquement les Test quand tu es Brisé !",
-        "diceRoll": "Dice Roll Dialog",
+        "diceRoll": "Prépares ton lancer de dé(s)",
         "success": "Succès",
         "successes": "Succès",
         "failure": "Echec",
         "tested": "Test",
-        "rerolled": "Relancé",
-        "reroll": "Relancer"
+        "rerolled": "Test Forcé",
+        "reroll": "Forcer le Test"
     }
 
 
